@@ -31,3 +31,8 @@ Set a username (example: NewEmployee)
 
 Make sure Account type = Standard
 
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_09_56" src="https://github.com/user-attachments/assets/7cd9cfaa-b2cd-442d-90bf-5874a5dc72d9" />
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_10_32" src="https://github.com/user-attachments/assets/b03b08e7-6b77-420c-a3c8-a09b160514dc" />
+
+
+
