@@ -19,4 +19,15 @@ Press Enter
 Created a standard user account for the new employee using Windows account settings. 
 Ensured account type remains Standard to maintain security.
 
+Open Settings
+
+Go to Accounts → Family & other users
+
+Click Add account
+
+Choose Add a user without a Microsoft account
+
+Set a username (example: NewEmployee)
+
+Make sure Account type = Standard
 
