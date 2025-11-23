@@ -32,6 +32,7 @@ Set a username (example: NewEmployee)
 Make sure Account type = Standard
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_09_56" src="https://github.com/user-attachments/assets/7cd9cfaa-b2cd-442d-90bf-5874a5dc72d9" />
+
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_10_32" src="https://github.com/user-attachments/assets/b03b08e7-6b77-420c-a3c8-a09b160514dc" />
 
 ## Required Software Installation
@@ -43,5 +44,10 @@ Verified installations through Apps & Features.
 ## Windows Update Configuration
 Updated system to the latest Windows patches.
 Enabled automatic updates to maintain system security and stability.
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_32_39" src="https://github.com/user-attachments/assets/b793bed8-f1cf-46b8-8331-c28c7f4b08c5" />
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_33_13" src="https://github.com/user-attachments/assets/c00e9427-d796-45af-b5a9-c415803f842a" />
+
 
 
