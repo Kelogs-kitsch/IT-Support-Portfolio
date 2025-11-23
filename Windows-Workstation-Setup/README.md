@@ -45,6 +45,16 @@ Verified installations through Apps & Features.
 Updated system to the latest Windows patches.
 Enabled automatic updates to maintain system security and stability.
 
+Open Settings
+
+Go to Windows Update
+
+Click Check for updates
+
+Install all available updates
+
+Restart if required
+
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_32_39" src="https://github.com/user-attachments/assets/b793bed8-f1cf-46b8-8331-c28c7f4b08c5" />
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_33_13" src="https://github.com/user-attachments/assets/c00e9427-d796-45af-b5a9-c415803f842a" />
