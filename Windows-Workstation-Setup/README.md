@@ -4,3 +4,9 @@ This documentation provides the complete procedure for configuring a new employe
 ## System Information
 Verified system hardware and OS build using msinfo32. 
 Documented CPU, RAM, device model, and Windows version.
+
+Press Windows + R
+
+Type: msinfo32
+
+Press Enter
