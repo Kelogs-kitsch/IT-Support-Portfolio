@@ -37,5 +37,11 @@ Make sure Account type = Standard
 ## Required Software Installation
 Installed essential workplace applications including browser, office tools, communication software, and utilities. 
 Verified installations through Apps & Features.
+
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_24_25" src="https://github.com/user-attachments/assets/f5df8338-d6f9-4a53-b274-0c03543d0208" />
+
+## Windows Update Configuration
+Updated system to the latest Windows patches.
+Enabled automatic updates to maintain system security and stability.
+
 
