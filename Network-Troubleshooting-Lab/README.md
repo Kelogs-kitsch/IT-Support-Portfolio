@@ -8,7 +8,7 @@ Type: cmd
 
 Press Enter
 
-Run these commands
+Run these commands:
 
 ipconfig /all
 
