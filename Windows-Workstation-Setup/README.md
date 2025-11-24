@@ -59,5 +59,13 @@ Restart if required
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_07_33_13" src="https://github.com/user-attachments/assets/c00e9427-d796-45af-b5a9-c415803f842a" />
 
+## Security Configuration
+Verified Windows Firewall and real-time protection settings. 
+Ensured malware protection and network firewall were enabled.
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_18_59_41" src="https://github.com/user-attachments/assets/ab83a525-d043-4b0f-b7c7-e7afa91c97d6" />
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_00_03" src="https://github.com/user-attachments/assets/b2d4cf3a-184f-4083-a2a6-e5dc97704dc8" />
+
 
 
