@@ -67,5 +67,21 @@ Ensured malware protection and network firewall were enabled.
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_00_03" src="https://github.com/user-attachments/assets/b2d4cf3a-184f-4083-a2a6-e5dc97704dc8" />
 
+## Storage Configuration and Cleanup
+Performed disk cleanup to remove temporary and unused system files. 
+Confirmed Storage Sense settings for automatic cleanup.
+
+Press the Windows key + R to open the Run dialog box.
+
+Type cleanmgr in the box.
+
+Press Enter or click OK.
+
+Select the drive you want to clean and click OK
+
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_00_03" src="https://github.com/user-attachments/assets/6dd33bff-58a2-4787-87f2-04ebb0143bc6" />
+
+
 
 
