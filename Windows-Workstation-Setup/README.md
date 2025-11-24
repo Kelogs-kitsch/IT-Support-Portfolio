@@ -82,6 +82,13 @@ Select the drive you want to clean and click OK
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_00_03" src="https://github.com/user-attachments/assets/6dd33bff-58a2-4787-87f2-04ebb0143bc6" />
 
+## Printer Setup
+Configured default printer for the workstation. 
+Verified printing functionality using Microsoft Print to PDF.
+
+<img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_10_39" src="https://github.com/user-attachments/assets/543deb48-0583-4a31-8135-7929595f737c" />
+
+
 
 
 
