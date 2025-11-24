@@ -33,5 +33,18 @@ Tested connectivity to the internet using Google’s public DNS server. Verified
 ### ping google.com
 Checked DNS resolution and internet connectivity. Used to compare results against pinging an IP address to detect DNS problems.
 
+<img width="1024" height="768" alt="pinggoogle" src="https://github.com/user-attachments/assets/8f240912-035b-4621-b6b7-a80b11279a92" />
+
+### tracert google.com
+Displayed the network path to google.com. Used to identify routing issues, connectivity breaks, and slow hops.
+
+<img width="1024" height="768" alt="tracertgoogle" src="https://github.com/user-attachments/assets/b39212b3-189f-460d-9cba-038f369c0a24" />
+
+### nslookup google.com
+Tested DNS server response and name resolution. Helped confirm if DNS was functioning correctly.
+
+<img width="1024" height="768" alt="nslookupgoogle" src="https://github.com/user-attachments/assets/764a3195-5c3f-444b-91ea-dc9d733f1017" />
+
+
 
 
