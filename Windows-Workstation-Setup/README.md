@@ -88,6 +88,10 @@ Verified printing functionality using Microsoft Print to PDF.
 
 <img width="1024" height="768" alt="VirtualBox_w10_24_11_2025_19_10_39" src="https://github.com/user-attachments/assets/543deb48-0583-4a31-8135-7929595f737c" />
 
+# Summary
+The workstation was successfully configured with a standard user account, updated system patches, installed workplace applications, and security measures. 
+All components of the setup were validated and documented.
+
 
 
 
