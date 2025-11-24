@@ -9,8 +9,13 @@ Type: cmd
 Press Enter
 
 Run these commands
+
 ipconfig /all
+
 ping 8.8.8.8
+
 ping google.com
+
 tracert google.com
+
 nslookup google.com
